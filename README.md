@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ralphregan
 - 👀 I’m interested in A lot of things Software Developer is on that ArrayList 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Alot of Likemind Zombies in the future 
+- 💞️ I’m looking to collaborate on/with Alot of Likemind Zombies in the future 
 - 📫 How to reach me ...
 
 <!---
